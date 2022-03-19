@@ -1,0 +1,24 @@
+a {
+  text-decoration: none;
+  color: #ffcb74;
+}
+
+a:hover {
+  color: #f6f6f6;
+}
+
+.right-top-ul {
+  list-style: none;
+  overflow: hidden;
+  margin: 10px;
+  margin-right: 16px;
+  font-family: arial, sans-serif;
+  font-size: 13px;
+}
+
+.right-top-ul li {
+  /* display: inline; */
+
+  float: right;
+  margin: 10px 10px auto auto;
+}

@@ -2,4 +2,4 @@
 
 patika.dev css/odev3 olarak yapıldı.
 
-![Alt text](../webnew.png?raw=true "google new version")>
+![alt text](https://github.com/[ArjinAlbay]/[new-google-version]/blob/webnew.png?raw=true)

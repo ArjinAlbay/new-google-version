@@ -1,6 +1,6 @@
 # new-google-version
 
--patika.dev css/odev3 olarak yapıldı.
+= patika.dev css/odev3 olarak yapıldı
 
 ++ !!!! Yararlanmak isteyen arkadaşlar için minik bir uyarı !!!! 
 

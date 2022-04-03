@@ -1,6 +1,6 @@
 # new-google-version
 
-<h1> = patika.dev css/odev3 olarak yapıldı.
+patika.dev css/odev3 olarak yapıldı.
 
 ++ !!!! Yararlanmak isteyen arkadaşlar için minik bir uyarı !!!! 
 
